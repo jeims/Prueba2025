@@ -18,7 +18,7 @@ Sigue estos pasos para instalar el proyecto en tu máquina local.
 1. **Clonar el repositorio:**
 
     ```bash
-    git clone https://github.com/tuusuario/tu-repositorio.git
+    git clone https://github.com/jeims/Prueba2025.git
     ```
 
 2. **Crear .evn:**
