@@ -43,7 +43,6 @@ Sigue estos pasos para instalar el proyecto en tu máquina local.
     composer install
     npm install
     npm run dev
-    php artisan serve
     ```
 
 4. **Migraciónes y Seeding**
@@ -51,6 +50,12 @@ Sigue estos pasos para instalar el proyecto en tu máquina local.
     ```bash
     php artisan migrate
     php artisan db:seed
+    ```
+
+5. **Ejecutar proyecto**
+
+    ```bash
+    php artisan serve
     ```
 
 Este `README.md` contiene los pasos básicos para instalar y configurar un proyecto en Laravel, incluyendo las configuraciones de entorno y cómo ejecutar migraciones y seeders. Puedes adaptarlo a tus necesidades específicas, como configuraciones personalizadas o dependencias adicionales.
